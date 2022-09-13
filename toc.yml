@@ -1,0 +1,11 @@
+- name: Hello, World!
+  href: hello.md
+- name: Articles
+  href: articles/
+  topicHref: articles/intro.md
+- name: Code Documentation
+  href: api/
+  topicHref: api/HelloDocfx.yml
+- name: Another Code Documentation
+  href: api-vb/
+  topicHref: api-vb/Class2.yml
